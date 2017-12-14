@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Title: A Good First Program
-
+# Author:lbli
 print "Hello World"
 print "Hello Again"
 print "I like typing this"
