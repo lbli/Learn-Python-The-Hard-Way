@@ -1,7 +1,7 @@
 #!/usr/bin/python
-# Title : Parameters.Upacking,Variables
+# Title : Parameters.Unpacking,Variables
 # Author:lbli
-# remind :you should excute in this way: python ex12.py first 2nd 3rd
+# remind :you should execute in this way: python ex12.py first 2nd 3rd
 
 
 from sys import argv
